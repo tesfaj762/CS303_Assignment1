@@ -6,7 +6,7 @@
 #include "TestArray.h"
 
 int main() {
-  const std::string input_file {"input.txt"};
+  const std::string input_file {"../input.txt"};
 
   File file(input_file);
 
