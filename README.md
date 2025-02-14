@@ -13,8 +13,8 @@ To compile and run this project, ensure you have the following installed:
 ## Cloning the Repository
 If you haven’t already, clone the repository using Git:
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/tesfaj762/CS303_Assignment1.git
+cd CS303_Assignment1
 ```
 
 ## Compilation Steps
