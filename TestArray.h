@@ -11,6 +11,11 @@
 
 template class Array<int>;
 
+/*
+ *These were just some functions I wrote to make sure that the Array was working as it should
+ *All the outputs were written to a text file called "tests.txt" which should be in the build folder
+ */
+
 class TestArray {
 public:
 

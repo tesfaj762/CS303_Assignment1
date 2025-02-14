@@ -40,15 +40,16 @@ public:
 
   void print();
 
-  [[nodiscard]] inline int size() const { return m_size; }
+  [[nodiscard]] int size() const { return m_size; }
 
-  [[nodiscard]] inline int capacity() const {return m_capacity;}
+  [[nodiscard]] int capacity() const {return m_capacity;}
 
 private:
 
   //doubles the size of the array when its full
   void reallocate();
-  
+
+  //contiguous block of memory stored here
   std::unique_ptr<Type[]> array;
 
   int m_size;
