@@ -55,13 +55,12 @@ cd CS303_Assignment1
 ## Running the Executable
 Once compiled, the executable will be located inside the `build` directory. Run it using:
 ```sh
-./your_executable_name
+./main
 ```
-(Replace `your_executable_name` with the actual executable file name.)
 
 On Windows, use:
 ```sh
-.\your_executable_name.exe
+.\main.exe
 ```
 
 ## Notes
